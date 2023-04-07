@@ -12,6 +12,9 @@ public class StudentRepository {
     List<student> studentList =  new ArrayList<>() {{
         add(new student(101,"Data","male",80));
         add(new student(102,"Sara","female",90));
+        add(new student(103,"Nara","male",190));
+        add(new student(104,"Wara","female",190));
+
     }};
 
 
